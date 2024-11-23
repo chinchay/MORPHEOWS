@@ -1,2 +1,5 @@
 # MORPHEOWS
-Machine-learning Optimization Resource for the design PHasE of Well Structures 
+
+## Overview
+
+**M**achine-learning **O**ptimization **R**esource for the design **PH**as**E** of **O**il **W**ell **S**tructures 
